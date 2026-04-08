@@ -11,4 +11,10 @@ public class Student {
     private String course;
 
     // getters & setters
+    public String getName(){
+        return name;
+    }
+    public String getCourse(){
+        return course;
+    }
 }
